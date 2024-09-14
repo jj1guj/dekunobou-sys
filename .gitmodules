@@ -1,0 +1,3 @@
+[submodule "libdekunobou"]
+	path = libdekunobou
+	url = https://github.com/jj1guj/libdekunobou
