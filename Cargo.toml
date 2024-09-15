@@ -3,7 +3,6 @@ name = "dekunobou"
 version = "0.1.0"
 edition = "2021"
 build = "build.rs"
-links = "dekunobou"
 
 [dependencies]
 libc = "0.2.158"
